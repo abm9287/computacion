@@ -1,0 +1,61 @@
+
+¿Cómo evitar los peligros de navegar en internet?
+
+Hurto de cuentas bancarias, robo de identidad, ciberbullying, grooming, acoso, relaciones con extraños, son los peligros más frecuentes en la vida online. El 7 de febrero es el Día de Internet Seguro, por eso le ofrecemos algunos tips sobre cómo prevenir estos riesgos presentes en la web.
+Consejos para navegar por internet ¿Cómo evitar los peligros de navegar en internet?
+
+Nadie está exento de vivir una mala experiencia en Internet, sin embargo, la mayoría de estos problemas se pueden evitar si se toman las medidas de seguridad adecuadas. El día del Internet Seguro es una iniciativa de muchos gobiernos en todo el mundo que tiene como objetivo promover su uso responsable y seguro, por parte de adultos pero especialmente de niños quienes son los más vulnerables.
+
+Este evento se celebrará en Colombia, al igual que en setenta países más que se han unido a esta causa. Y es que estar prevenidos  ante los riesgos latentes en la red no es tan difícil como se cree comúnmente, no se necesita ser experto en informática para proteger sus datos de ciberataques, tan solo se deben seguir unas sencillas recomendaciones.
+
+En páginas web
+
+Hay una infinidad de sitios que se pueden acceder a través de internet, Gabriela Hadid, experta en seguridad de Google, ofrece estos consejos de seguridad para evitar los riesgos que se pueden generar al navegar la web:
+
+- Prestar atención a las alertas proactivas que se muestran mientras navegamos para alertarnos, por ejemplo, de un sitio que puede contener phishing o malware.
+- Verificar la URL del sitio web al que ingresan para asegurarse que sea exactamente la página a la que desean acceder. La URL no debe contener ninguna falta de ortografía ni carácter especial añadido ya que esto podría indicar que la página no es auténtica.
+- Comprobar que se encuentre presente la leyenda https. La "s" significa seguro e indica que la conexión está encriptada y es seguro enviar datos de contraseñas, banco o tarjetas de crédito.
+
+En redes sociales y correo electrónico
+
+Si usted es usuario frecuente de Facebook, Twitter, Instagram u otras, y acostumbra a publicar o incluir datos personales en las bases de datos de estas plataformas, le recomendamos lo siguiente:
+
+- Definir una contraseña compleja, que contenga al menos seis u ocho caracteres combinados entre sí con números, letras (algunas en mayúsculas) y símbolos.
+-Activar las alertas de inicio de sesión, también conocidas como autenticación en dos pasos. Esta opción está disponible para Redes Sociales y correos electrónicos. Este servicio ofrece una capa extra de seguridad, que consiste en autenticar la identidad de los usuarios usando un segundo dispositivo, por lo general el celular, la plataforma le envía un código aleatorio a su segundo dispositivo el cual deberá ingresar para poder acceder. Esta función es útil cuando se abre sesión en un computador, tableta o celular desconocido.
+- Crear contactos de confianza, esta opción es útil en Facebook en caso de que su cuenta haya sido hackeada o tenga problemas para iniciar sesión. Tan solo debe agregar tres o cinco contactos, amigos cercanos o familiares, que pueda localizar fácilmente. En el caso de correo electrónico puede agregar uno o dos correos adicionales de recuperación en el apartado de configuración, si pierde su contraseña o su cuenta es hackeada, este recurso le permitirá volver a acceder.
+- Controlar el phishing. Los hackers que desean acceder a sus datos personales y bancarios por lo general envían a su cuenta de correo electrónico mensajes en los que imitan a la perfección la plataforma de su banco o de su red social. Hay dos tips que puede usar para prevenirlo: el primero es instalar en su navegador la extensión de un antivirus que identificará las paginas fraudulentas, más conocidas como Phishing, y le avisará de inmediato que está a punto de ingresar a una, además le dirá cuando este ingresando a sitios web de mala reputación. Otro error común que se comete es ingresar la dirección incorrecta de un sitio web, esta extensión lo corregirá automáticamente y lo dirigirá al sitio web de confianza.
+Evitar el spam.
+- Por medio de correos electrónicos basura se pueden filtrar sitios de phishing y hasta virus, por eso, al momento de identificar las páginas y dominios que le envían el molesto spam es recomendable crear un filtro que elimine este tipo de mensajes indeseados.
+
+Le recomendamos: Un robot que pueda ser el mejor amigo del hombre
+
+En celulares y tabletas
+
+La seguridad en dispositivos móviles es hoy por hoy la mayor preocupación para las personas, incluso más que en su computador portátil, esto se debe al tiempo y uso que le damos a diario al celular. Allí guardamos todo, desde las claves bancarias, correos personales y empresariales, fotos familiares y hasta intimas, conversaciones de chat, búsquedas en la web, entre otros datos que siempre deseamos mantener seguros y alejados de la vista de desconocidos.  
+
+Es una realidad que los servicios que ofrece Internet han cambiado nuestra vida, la forma en que nos comunicamos, aprendemos e incluso cómo nos entretenemos. De ahí que la seguridad se vuelve en un factor esencial a la hora de usar el celular o la tableta. A continuación algunas recomendaciones que puede aplicar en su dispositivo:
+
+- En teléfonos móviles, el bloqueo de pantalla nos protege de accesos no autorizados a nuestras aplicaciones. Para mayor seguridad, debes ajustar los parámetros de configuración necesarios para que el dispositivo se bloquee automáticamente cuando se habilita el modo de suspensión. Este puede ser un patrón, un PIN, una contraseña o nuestra huella si el dispositivo cuenta con lector. Recuerde no utilizar series numéricas consecutivas como 1234, datos personales como fechas de nacimiento, ni patrones predecibles como letras o formas geométricas.
+- Al ingresar a través de una red Wi-Fi pública, cualquier persona que se encuentre en la zona puede monitorear la información que se transmite entre su dispositivo y la zona Wi-Fi si la conexión no está encriptada. Cuando utilice redes públicas evite realizar actividades importantes como iniciar sesión, transacciones bancarias o compras en línea.
+- La mayoría de los sistemas operativos le avisarán cuando sea el momento de actualizar su celular; no ignore estos mensajes. A veces, las versiones antiguas de software pueden tener problemas de seguridad que los delincuentes aprovechan para acceder a tus datos con facilidad.
+- Para mantener su celular protegido, solamente descargue aplicaciones de tiendas oficiales. No abra ningún tipo de archivo desconocido y evite dar clic en ventanas emergentes que aparecen mientras navega en el buscador. También preste atención a los detalles en letra chica y a cualquier casilla de verificación que esté seleccionada de forma automática. Asegúrese que entiende qué programas se van a instalar y qué accesos se van a otorgar. Para mayor seguridad en dispositivos Android  hay la posibilidad de que todas las aplicaciones instaladas se verifiquen, para activarlo debe ir a Ajustes de Google > Seguridad,  activar la opción "Buscar amenazas de seguridad en el dispositivo" y "Mejorar la detección de aplicaciones dañinas".
+- Las copias de seguridad facilitan la recuperación de la información y las aplicaciones en caso de perder el dispositivo, si se daña o si lo roban.
+Los perfiles de usuario permiten que varios usuarios utilicen el mismo dispositivo, sin que el resto de usuarios pueda acceder a sus archivos o datos privados. Se recomienda  activar el perfil de invitado cuando comparta su celular o tableta con otra persona.
+- Con el Administrador de Dispositivos de Android puede localizar de manera remota los dispositivos perdidos asociados con su cuenta de Google. También puede bloquear la pantalla, hacerlo sonar (aún si se encuentra en silencio), o borrar la información del dispositivo en caso de robo o pérdida.
+- Si se quiere tener más seguro el contenido del celular o tableta, existe una opción que es una de las más efectivas, cifrar el dispositivo. El proceso de cifrado puede llegar a ser lento en algunos dispositivos, pero si lo que quiere es asegurar al máximo sus datos esta es una excelente opción.
+
+Puede leer: Las 15 aplicaciones colombianas más destacadas
+
+Recomendaciones para la seguridad de sus hijos
+
+Cada vez es más común que los niños tengan acceso a dispositivos electrónicos donde pueden acceder a internet. Los padres deben estar alerta ante los peligros que sus hijos corren a la hora de navegar por la web. Estas son algunas de las recomendaciones que brinda el Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC) para evitar estos riesgos:
+
+- Comparta más tiempo con sus hijos, no deje que Internet sea un motivo de distanciamiento.
+- En los primeros años de edad, no deje que sus hijos naveguen en Internet sin acompañamiento y si es posible restrinja ciertas aplicaciones inapropiadas para su edad. En dispositivos Android y IOS existe la posibilidad de bloquear por medio de contraseña, las aplicaciones o sitios web para adultos.
+- Cultive una relación de confianza con sus hijos, procure hablar sobre la responsabilidad de usar Internet y sobre los peligros que se pueden presentar. - Muchos de los casos de grooming (pedofilia) se producen por falta de atención de los padres a sus hijos.
+- En caso de que los niños tengan acceso a dispositivos como celulares o tabletas, establezca horarios y lugares de uso adecuados.
+- En cualquier caso de ciberacoso denuncie a través del portal Te Protejo (www.teprotejo.org), que está conectado al Centro Cibernético de la Policía Nacional y a la Fiscalía General de la Nación.
+
+Le puede interesar: Cómo proteger a nuestros hijos de los peligros de internet
+
+El Viceministro General de las  TIC Juan Sebastián Rozo señaló la importancia de desprenderse de la tecnología en algunos lapsos: Las personas a veces sienten miedo de estar desconectada, esto puede llegar al extremo de dejar de lado necesidades vitales como comer o dormir. Un muestra clara es que 52% de los jóvenes entre los 12 y 17 años siente ansiedad al no saber que ocurre en internet cuando se encuentran desconectados.”

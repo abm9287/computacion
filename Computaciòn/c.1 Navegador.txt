@@ -1,0 +1,44 @@
+¿Qué es un navegador o explorador Web?
+
+Un navegador web es un programa que nos permite ver la información que contiene una página web.
+Traduce el código HTML en el que está escrita la página y muestra el contenido en pantalla, que puede ser texto, imágenes, videos u otros elementos.
+Usando los enlaces o hipervínculos, podemos navegar hacia otras páginas o sitios de la red.
+
+La diferencia entre estos dos elementos de uso cotidiano en Internet es simple: los navegadores son programas instalados en nuestro computador, que ocupan por lo tanto espacio en su disco duro y que en algunos casos pueden costarnos dinero, mientras que los buscadores son servicios on-line que nos ayudan a encontrar la información que deseamos en el vasto universo de la Red.
+
+Dicho de otro modo, no podemos acceder a un buscador, como Google o Bing, si no tenemos primero un navegador con el cual ingresar a la Internet. De igual forma, contar solamente con el buscador nos exigiría saber exactamente la dirección URL de cada página que queramos visitar, y eso podría ser muy complicado. Así que mejor es aprenderse solamente la del buscador de nuestra preferencia y usarlo para conseguir la información que necesitemos.
+
+Fuente: https://concepto.de/navegador-web/#ixzz5iZZYyTKS
+
+    ¿Qué es Buscador?
+
+Un buscador es un sistema informático que nos permite encontrar páginas web o resultados en base a la frase o palabra que hayamos ingresado y estemos buscando. 
+Los más conocidos son Google, Bing y Yahoo, siendo este último el primero en ser creado en el año 1994.
+Podemos clasificar los buscadores en dos grandes tipos:
+
+    Motores de búsqueda: Se encargan de asociar lo que deseamos encontrar basándose en “palabras clave”, son distintas máquinas con software específicos que se dedican a la búsqueda de términos por las páginas que están en su registro. Cuentan con “arañas web”, que son programas dedicados a analizar Internet de manera automática y sistemática.
+    Índices temáticos: Cuentan con un equipo de personas que se dedican a buscar manualmente páginas por la red, es una búsqueda más bien temática.
+
+Es importante aclarar que no todas las páginas existentes se encuentran en los buscadores. A estas páginas no indexadas por los buscadores es lo que se conoce como “Internet profundo” u “Internet invisible”. Esta parte de Internet es considerada muy problemática por ciertas agencias gubernamentales, ya que suele escapar de la facilidad de los controles ordinarios y son más difíciles de rastrear.
+
+Más en: ¿Qué es Internet?
+Conceptos relacionados
+
+    Navegador Web
+    Google
+    Página Web
+    Dominio en Internet
+    URL
+    Hipervínculo
+    Spyware
+    Web 2.0
+    Multimedia
+    Hipertexto
+    Protocolo Informático
+    Spam
+
+
+Fuente: https://concepto.de/buscador/#ixzz5iZZm2fLL
+
+
+Fuente: https://concepto.de/buscador/#ixzz5iZZch1dY

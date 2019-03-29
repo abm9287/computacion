@@ -1,0 +1,44 @@
+Para evitar los peligros que se encuentra latente en Internet es necesario conocerlos, por eso realizamos una recopilación de estos peligros para que puedas adoptar medidas preventivas y aconsejar a los menores. Internet ofrece grandes ventajas y herramientas, para disfrutar de estos beneficios, deberás evitar los aspectos negativos.
+
+ 
+Malware
+
+Es el acrónimo en inglés de software malicioso (malicious software). El objetivo de este tipo de aplicaciones es dañar la computadora. En la mayoría de los casos, la infección ocurre por “errores” realizados por los usuarios, al ser engañados por el atacante. Existen muchas herramientas (antivirus, antispyware) y buenas prácticas, que reducen el riesgo de infección, ante todas las variantes de códigos maliciosos: virus, gusanos, troyanos, spyware, etc. La diferencia entre estas variantes radica en la forma en que se distribuyen: algunas veces se aprovechan de sistemas vulnerables y otras de usuarios no precavidos.
+
+ 
+Spam
+
+El spam es el famoso “correo basura”. Son aquellos mensajes que no fueron solicitados por el usuario y que llegan a la bandeja de entrada. Normalmente, este tipo de correos contienen propagandas – muchas veces engañosas – que incitan al usuario a ingresar a páginas, con ofertas “milagrosas”, cuyo contenido es potencialmente dañino para el usuario.
+
+ 
+Scam
+
+Los scam son engaños o estafas, que se llevan a cabo a través de Internet. Se realizan de diversas formas como, por ejemplo, a través de correos no solicitados (spam), así como también a través de técnicas de Ingeniería Social. Estas últimas, intentan convencer al usuario de la prestación de un servicio cuando en realidad sólo quieren acceder a información confidencial. Un ejemplo son los mensajes falsos solicitando nuestra contraseña y clave de redes sociales a través de Internet.
+
+ 
+Ciberacoso
+
+Es una conducta hostil que puede ser practicada hacia los niños. La víctima de este tipo de acosos, es sometida a amenazas y humillaciones de parte de sus pares en la web, cuyas intenciones son atormentar a la persona y llevarla a un quiebre emocional. Estas prácticas pueden ser realizadas a través de Internet, así como también, teléfonos celulares y videoconsolas. También denominado en inglés, cyberbullying, no siempre son realizadas por adultos, sino también son frecuentes entre adolescentes.
+
+ 
+Grooming
+
+Se trata de la persuasión de un adulto hacia un niño, con la finalidad de obtener una conexión emocional y generar un ambiente de confianza para que el niño realice actividades sexuales. Muchas veces los adultos se hacen pasar por niños de su edad e intentan entablar una relación para, luego, buscar realizar encuentros personales.
+
+ 
+Sexting
+
+ 
+
+Proviene del acrónimo formado entre Sex y Texting. Inicialmente, y como lo indica su nombre, se trataba del envío de mensajes con contenidos eróticos. Posteriormente, dado el avance tecnológico, esta modalidad evolucionó hacia el intercambio de imágenes y videos convirtiéndose en una práctica habitual entre adolescentes y niños.
+
+ 
+
+Robo de información
+
+ 
+
+Toda la información que viaja por la web, sin las medidas de precaución necesarias, corre el riesgo de ser interceptada por un tercero. De igual modo, existen también ataques con esta finalidad. La información buscada, normalmente apunta a los datos personales. Un paso en falso ante este tipo de incidentes, puede exponer al menor de edad a la pérdida de dinero familiar o al robo de identidad.
+
+https://elcomercio.pe/peru/7-consejos-evitar-peligros-internet-415333 
+https://pedernal.org/2014/03/22/guia-de-educacion-para-la-prevencion-de-riesgos-en-redes-sociales-y-menores/

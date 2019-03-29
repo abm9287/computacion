@@ -1,0 +1,22 @@
+Puede respaldar sus datos de Evolution. El respaldo guarda sus ajustes, correos, contactos, tareas, notas y calendarios. Se almacenará en formato comprimido gzip, dentro de un archivador tar.
+Respaldos
+
+    Seleccione Archivo ? Respaldar datos de Evolution….
+
+    Elija un nombre de archivo y la carpeta donde quiere guardar el archivo de respaldo y pulse Guardar.
+
+    Se le pedirá que cierre Evolution. Responda Sí.
+
+Tenga en cuenta que su configuración de filtros de SPAM no se incluyen en el archivo de respaldo, ya que estos ajustes no están controlados por Evolution y porque los desarrolladores de las herramientas de filtrado de SPAM pueden cambiar sus detalles de implementación. Si usa Bogofilter deberá respaldar ~/.bogofilter/. Si usa SpamAssassin deberá respaldar ~/.spamassassin/.
+Restaurar
+
+    Seleccione Archivo ? Restaurar datos de Evolution….
+
+    Seleccione el archivo y pulse Abrir.
+
+    Se le pedirá que cierre Evolution. Responda Sí.
+
+En el asistente de primera ejecución puede restaurar Evolution desde un archivo de respaldo.
+
+
+Migración de datos y sincronización 
